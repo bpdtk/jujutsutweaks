@@ -8,6 +8,12 @@
 
 ---
 
+## 下载
+
+**[⬇ jujutsutweaks-1.0.0.jar](https://github.com/bpdtk/jujutsutweaks/releases/latest)**
+
+---
+
 ## 问题出在哪
 
 JujutsuCraft 的咒灵操术会把收服的咒灵以**真实体**形式存放在专属维度
