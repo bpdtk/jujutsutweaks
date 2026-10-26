@@ -1,0 +1,45 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+run-data
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# ===== 本项目约定 =====
+# 临时/检查文件区（可随时整目录删除）
+temp/
+
+# 工具二进制（保留 tools/ 目录与脚本，jar 不入库）
+tools/*.jar
+
+# 【重要】主体模组原始 jar：他人作品，All Rights Reserved，不得再分发
+主体版本/
+
+# 本地反编译 / 分析产物
+*.decompiled/
+
+# AI 工具数据
+.workbuddy-ai/
+
+# 日志
+*.log

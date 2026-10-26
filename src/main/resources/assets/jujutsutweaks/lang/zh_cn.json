@@ -1,0 +1,7 @@
+{
+  "jujutsutweaks.status.line": "冻结: %s | 上一 tick 跳过实体: %s | 累计跳过实体 tick: %s | 储物维度: %s",
+  "jujutsutweaks.state.on": "开",
+  "jujutsutweaks.state.off": "关",
+  "jujutsutweaks.state.loaded": "已加载",
+  "jujutsutweaks.state.unloaded": "未加载"
+}

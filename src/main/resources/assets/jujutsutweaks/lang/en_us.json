@@ -1,0 +1,7 @@
+{
+  "jujutsutweaks.status.line": "Freeze: %s | Entities skipped last tick: %s | Total skipped entity-ticks: %s | Storage dimension: %s",
+  "jujutsutweaks.state.on": "ON",
+  "jujutsutweaks.state.off": "OFF",
+  "jujutsutweaks.state.loaded": "loaded",
+  "jujutsutweaks.state.unloaded": "not loaded"
+}

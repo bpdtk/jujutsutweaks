@@ -1,0 +1,18 @@
+# 统一换行符：源码一律 LF，Windows 脚本用 CRLF
+# 不加这段的话，Windows 上 autocrlf=true 会把 gradlew 存成 CRLF，
+# Linux/macOS 用户克隆后执行会报 "bad interpreter: /bin/sh^M"
+
+* text=auto eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二进制文件不做换行转换
+*.jar binary
+*.png binary
+*.ogg binary
+*.zip binary
+
+# 数据生成器产物
+src/generated/**/.cache/cache text eol=lf
+src/generated/**/*.json text eol=lf
